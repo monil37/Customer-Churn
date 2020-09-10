@@ -1,0 +1,1 @@
+- this is customer churn prediction based from given dataset
